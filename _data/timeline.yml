@@ -1,17 +1,18 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title:  Interactive Robotics and Novel Technologies. (IronLab)
+  from: 2019
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I worked in the IRON Lab to help create a public facing series of tools to rapidly improve the development
+    with Hololens, AR, and connecting to a ROS System. That way we could start rapidly developing and testing human
+    robotic interactions.
+
+- title: University of Colorado Boulder,
+  from: 2016
+  to: present
+  description:  Computer Science, Technology Arts  and Media, and Applied Mathematics.
+
+- title: Fairview Highschool, IB Diploma Graduate
+  from:
+  to: 2016
+  description: The IB Diploma is an international education system that involves taking tests at a rigourus college level,
+    standarized from schools around the world.

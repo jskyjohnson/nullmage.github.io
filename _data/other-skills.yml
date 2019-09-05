@@ -1,5 +1,7 @@
-- name: Adobe Photoshop
+- name: Adobe Creative Cloud
   color: info
 
-- name: Adobe Illustrator
+- name: Solidworks
   color: success
+
+- name: Rhino

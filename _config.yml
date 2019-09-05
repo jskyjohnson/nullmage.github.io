@@ -45,9 +45,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  photography:
-    output: true
-    permalink: /projects/:name
+  # photography:
+  #   output: true
+  #   permalink: /projects/:name
 
 ### Defaults for collections ###
 defaults:

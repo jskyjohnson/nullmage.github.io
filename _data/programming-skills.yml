@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: Python and Datascience
   percentage: 90
   color: danger
 
-- name: Go
+- name: Unity
   percentage: 80
   color:
 
-- name: Python
+- name: Arduino and RaspberryPI
   percentage: 70
   color: dark
